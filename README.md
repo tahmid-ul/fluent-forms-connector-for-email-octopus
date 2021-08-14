@@ -1,7 +1,8 @@
 # Fluent Forms Connector for EmailOctopus
 
 == Description ==
-Create EmailOctopus subscribers from your Fluent Forms Form Submission.
+
+- Create EmailOctopus subscribers from your Fluent Forms Form Submission.
 
 === FEATURES ===
 
