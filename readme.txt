@@ -1,5 +1,5 @@
 === Fluent Forms Connector for EmailOctopus ===
-Contributors: 
+Contributors: tahmid-ul
 Tags: Integration, EmailOctopus, Form, Integration, Fluent Forms
 Requires at least: 5.0
 Tested up to: 5.4
